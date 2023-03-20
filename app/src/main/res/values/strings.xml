@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">API Dasar</string>
+    <string name="api_key">c55d7a681874ffa1020ff3ab97f8c655</string>
+
+
+    <string name="base_url_image_w200">https://image.tmdb.org/t/p/w200</string>
+    <string name="base_url_image_w500">https://image.tmdb.org/t/p/w780</string>
+    <string name="release">Released: %1$s</string>
+    <string name="rating_count">(%1$d votes)</string>
+    <string name="url_imbd">https://www.imdb.com/title/%1$s</string>
+</resources>
