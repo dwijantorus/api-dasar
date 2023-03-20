@@ -14,9 +14,9 @@ import java.util.List;
 
 public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> {
 
-    private List<String> localDataSet;
+    private List<Movie> localDataSet;
 
-    public MovieAdapter(List<String> dataSet) {
+    public MovieAdapter(List<Movie> dataSet) {
         localDataSet = dataSet;
     }
 
